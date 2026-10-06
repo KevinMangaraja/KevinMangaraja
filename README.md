@@ -11,7 +11,8 @@ Saya adalah seorang developer dari Indonesia. Saya suka belajar hal baru dan mem
 
 ### 📫 Hubungi Saya
 - **Email:** kevinmangaraja3@gmail.com
-
-https://kevinmangaraja.github.io/contoh/
-https://kevinmangaraja.github.io/Pendata/
-https://kevinmangaraja.github.io/PSD-B/
+  
+### materi
+- https://kevinmangaraja.github.io/contoh/
+- https://kevinmangaraja.github.io/Pendata/
+- https://kevinmangaraja.github.io/PSD-B/
